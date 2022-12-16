@@ -1,4 +1,4 @@
-# Assignment 2 - A Little Slice of π
+# "A Little Slice of π" CSE 13S
 This program is a combination of multiple functions that come together in a test file. The functions 
 use variuous methods to calculate approximations for the value of e, pi, and the square root of a 
 given number in an attempt to replicate the math library. 
